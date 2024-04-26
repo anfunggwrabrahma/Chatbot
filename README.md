@@ -26,6 +26,10 @@ The chatbot utilizes a combination of web scraping techniques using BeautifulSou
 
 To use the IOCL Chatbot, simply open the bot directory and open the provided HTML file in a web browser. You will be greeted with an interactive chat interface where you can input your queries and receive responses from the chatbot.
 
+## Flowchart of the Chatbot
+
+![Flowchart](https://github.com/anfunggwrabrahma/Chatbot/blob/main/a1.png)
+
 ## Project Report
 
 For more detailed information about the project, please refer to our project report [here](https://drive.google.com/file/d/1Xt2V-77V18w_nUSdBNBXexsnmARR8ohi/view?usp=sharing).
