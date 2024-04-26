@@ -32,11 +32,16 @@ To use the IOCL Chatbot, simply open the bot directory and open the provided HTM
 
 ## Demo Images of the Chatbot
 
-<div>
-    <img src="https://github.com/anfunggwrabrahma/Chatbot/blob/main/a2.png" alt="Image 1" style="float:left; margin-right: 10px;" width="300"/>
-    <img src="https://github.com/anfunggwrabrahma/Chatbot/blob/main/a3.png" alt="Image 2" style="float:right; margin-left: 10px;" width="300"/>
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/anfunggwrabrahma/Chatbot/blob/main/a2.png" alt="Demo pic 1" width="300"/>
+        <p>Demo pic 1</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/anfunggwrabrahma/Chatbot/blob/main/a3.png" alt="Demo pic 2" width="300"/>
+        <p>Demo pic 2</p>
+    </div>
 </div>
-
 
 ## Project Report
 
