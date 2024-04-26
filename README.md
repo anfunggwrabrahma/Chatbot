@@ -28,7 +28,7 @@ To use the IOCL Chatbot, simply open the bot directory and open the provided HTM
 
 ## Flowchart of the Chatbot
 
-![Flowchart](https://github.com/anfunggwrabrahma/Chatbot/blob/main/a1.png)
+<img src="https://github.com/anfunggwrabrahma/Chatbot/blob/main/a1.png" alt="Flowchart" width="80%">
 
 ## Demo Images of the Chatbot
 
